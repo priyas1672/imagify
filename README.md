@@ -2,6 +2,12 @@
 Imagify is a full-stack AI-powered web application that allows users to generate images from text prompts.
 It includes authentication, credit-based usage, and secure payments using Razorpay.
 
+## 🌐 Live Demo
+
+🚀 Check out the live project here:  
+👉 https://imagify-client-spuf.onrender.com
+
+
  
 ## 🚀 Features
 - 🔐 User Authentication (Register / Login using JWT)
