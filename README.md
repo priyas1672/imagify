@@ -17,7 +17,7 @@ It includes authentication, credit-based usage, and secure payments using Razorp
 - 📊 Real-time Credit Balance Update
 - 🧾 Multiple Subscription Plans (Basic, Advanced, Business)
 - 📱 Responsive UI
-- ☁️ Deployed on Render
+- ☁️ Deployed on Render.
 
   
 ## 🛠️ Tech Stack
