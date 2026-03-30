@@ -13,7 +13,7 @@ It includes authentication, credit-based usage, and secure payments using Razorp
 - 🔐 User Authentication (Register / Login using JWT)
 - 🎨 AI-powered Text to Image Generation
 - ⭐ Credit-based Image Generation System
-- 💳 Secure Payments with Razoray
+- 💳 Secure Payments with Razorpay
 - 📊 Real-time Credit Balance Update
 - 🧾 Multiple Subscription Plans (Basic, Advanced, Business)
 - 📱 Responsive UI
