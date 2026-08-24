@@ -1,4 +1,4 @@
-
+ 
 # 🖼️ Imagify – AI Text to Image Generator
 Imagify is a full-stack AI-powered web application that allows users to generate images from text prompts.
 It includes authentication, credit-based usage, and secure payments using Razorpay.
